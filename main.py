@@ -1,5 +1,4 @@
 import discord
-from tokens import token_add
 
 client = discord.Client()
 
